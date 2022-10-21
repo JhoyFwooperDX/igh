@@ -26,12 +26,12 @@ pip install mechanize
 
 cd $HOME
 
-rm -rf IG
+rm -rf igh
 
-git clone https://github.com/JhoyFwooperDX/IG
+git clone https://github.com/JhoyFwooperDX/igh
 
-cd IG
+cd igh
 
 git pull
 
-python IG.py
+python igh.py
